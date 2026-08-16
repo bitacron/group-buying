@@ -31,6 +31,6 @@ spring:
 wx:
   open:
     # 小程序微信公众平台appId
-    app_id: your_app_id
+    app_id: wxb5ff3fefc1044a9f
     # 小程序微信公众平台api秘钥
-    app_secret: your_app_secret
+    app_secret: e29913a5593078c165c7afb8c71a0ff8
