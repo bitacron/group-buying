@@ -65,4 +65,4 @@ weixin:
   partner: 1481962542
   partnerkey: MXb72b9RfshXZD4FRGV5KLqmv5bx9LT9
   notifyurl: http://gmall-prod.atguigu.cn/api/payment/weixin/notify
-  cert: D:\WorkSpace\Project\groupbuying\groupbuying-service\group_buying\service\service_order\src\main\resources\apiclient_cert.p12
+  cert: D:\WorkSpace\Project\groupbuying\groupbuying-server\service\service_order\src\main\resources\apiclient_cert.p12

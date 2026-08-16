@@ -19,7 +19,7 @@ public class CodeGet {
         // 2、全局配置
         // 全局配置
         GlobalConfig gc = new GlobalConfig();
-        gc.setOutputDir("D:\\WorkSpace\\Project\\groupbuying\\groupbuying-service\\group_buying\\service\\service_order"+"/src/main/java");
+        gc.setOutputDir("D:\\WorkSpace\\Project\\groupbuying\\groupbuying-server\\service\\service_order"+"/src/main/java");
 
         gc.setServiceName("%sService");	//去掉Service接口的首字母I
         gc.setAuthor("example");
